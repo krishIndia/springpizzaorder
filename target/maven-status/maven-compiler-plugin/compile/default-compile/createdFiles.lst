@@ -1,0 +1,9 @@
+com\mfg\controller\OrdersController.class
+com\mfg\repository\ProductRepository.class
+com\mfg\SpringpizzaorderApplication.class
+com\mfg\repository\OrderRepository.class
+com\mfg\controller\ProductsController.class
+com\mfg\model\CustomerOrder.class
+com\mfg\model\Customer.class
+com\mfg\repository\CustomerRepository.class
+com\mfg\model\Product.class
